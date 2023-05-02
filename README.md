@@ -1,6 +1,6 @@
 # coursework
 
-Для запуска нужно установить 3 пакета:
+Для запуска нужно скачать 3 пакета и закинуть их в корень проекта:
 
 filebeat: https://artifacts.elastic.co/downloads/beats/filebeat/filebeat-8.7.0-amd64.deb
 

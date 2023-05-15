@@ -6,7 +6,7 @@ cсылки:
 
 kibana:  http://158.160.99.197:5601/app/discover#/?_g=(filters:!(),refreshInterval:(pause:!t,value:60000),time:(from:now-15m,to:now))&_a=(columns:!(message),filters:!(),index:'522734a3-c893-42b2-90f2-d6d195863782',interval:auto,query:(language:kuery,query:''),sort:!(!('@timestamp',desc)),viewMode:documents) 
 
-grafana:  [[http://158.160.37.224:3000/d/FgFmwJE4z/new-dashboard?orgId=1](http://158.160.33.237:3000/d/FgFmwJE4z/new-dashboard?orgId=1) login: admin pass: 12341234](http://158.160.40.246:3000/d/FgFmwJE4z/new-dashboard?orgId=1)
+grafana:  login: admin pass: 12341234 http://158.160.40.246:3000/d/FgFmwJE4z/new-dashboard?orgId=1
 
 web: http://84.201.174.174/
 
